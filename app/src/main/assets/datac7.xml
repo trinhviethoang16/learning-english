@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC7>
+    <Item>
+        <ID>1</ID>
+        <Question>apple</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>begin</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>color</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>anger</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>allow</Question>
+    </Item>
+</QuestionNareC7>

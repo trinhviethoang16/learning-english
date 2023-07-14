@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC12>
+    <Item>
+        <ID>1</ID>
+        <Question>compare</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>contain</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>develop</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>natural</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>operate</Question>
+    </Item>
+</QuestionNareC12>

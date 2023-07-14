@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC3>
+    <Item>
+        <ID>1</ID>
+        <Question>are</Question>
+        <Answer>are</Answer>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>has</Question>
+        <Answer>has</Answer>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>six</Question>
+        <Answer>six</Answer>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>ten</Question>
+        <Answer>ten</Answer>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>sky</Question>
+        <Answer>sky</Answer>
+    </Item>
+</QuestionNareC3>

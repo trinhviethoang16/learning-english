@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.man.learningenglish">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LearningEnglish">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".correctword_test"/>
+        <activity android:name=".correctword_highscore"/>
+        <activity android:name=".englishquiz_test"/>
+        <activity android:name=".correctword_thongbao"/>
+        <activity android:name=".englishquiz"/>
+        <activity android:name=".correctword"/>
+        <activity android:name=".englishquiz_highscore"/>
+        <activity android:name=".englishquiz_result"/>
+        <activity android:name=".correctword_result"/>
+        <activity android:name=".homepage"/>
+        <activity android:name=".register"/>
+        <activity android:name=".entername"/>
+        <activity android:name=".playername"/>
+        <activity android:name=".huongdanquiz"/>
+        <activity android:name=".huongdanword"/>
+    </application>
+</manifest>

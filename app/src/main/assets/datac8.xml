@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC8>
+    <Item>
+        <ID>1</ID>
+        <Question>clothe</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>coast</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>dance</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>dream</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>drink</Question>
+    </Item>
+</QuestionNareC8>

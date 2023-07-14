@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Learning English</string>
+    <string name="back">Trở về</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="email">Email đăng nhập</string>
+    <string name="password">Password</string>
+    <string name="LE">Welcome to\nLearning English</string>
+    <string name="EQ">English Quiz</string>
+    <string name="CQ">Correct Word</string>
+    <string name="start">Bắt đầu</string>
+    <string name="highscore">Điểm cao</string>
+    <string name="highscoreCR">Điểm cao\nCorrect Word</string>
+    <string name="highscoreEQ">Điểm cao\nEnglish Quiz</string>
+    <string name="tutorial">Hướng dẫn</string>
+    <string name="playername">Nhập tên người chơi</string>
+    <string name="username">Tên người chơi</string>
+    <string name="choose">Chọn số lượng câu hỏi</string>
+    <string name="question">Can you guess what is\nin the picture?</string>
+    <string name="answer">Trả lời</string>
+    <string name="result">Kết quả</string>
+    <string name="EQresult">Kết quả bài làm</string>
+    <string name="homepage">Trang chủ</string>
+    <string name="help">50/50</string>
+    <string name="skip">Skip</string>
+    <string name="youranswer">Your Answer</string>
+    <string name="guideplay">Hướng dẫn chơi</string>
+    <string name="playagain">Chơi lại</string>
+    <string name="end">X</string>
+    <string name="ohno">Bạn cần phải học lại tiếng Anh từ đầu !!!</string>
+    <string name="logout">Thoát</string>
+</resources>

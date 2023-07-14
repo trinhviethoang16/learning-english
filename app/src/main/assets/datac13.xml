@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC13>
+    <Item>
+        <ID>1</ID>
+        <Question>segment</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>perhaps</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>molecule</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>measure</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>imagine</Question>
+    </Item>
+</QuestionNareC13>

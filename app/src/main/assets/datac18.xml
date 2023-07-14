@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC18>
+    <Item>
+        <ID>1</ID>
+        <Question>substance</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>represent</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>continent</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>condition</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>consonant</Question>
+    </Item>
+</QuestionNareC18>

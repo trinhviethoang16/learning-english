@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC20>
+    <Item>
+        <ID>1</ID>
+        <Question>bureaucracy</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>temperature</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>flexibility</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>carnivorous</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>alternative</Question>
+    </Item>
+</QuestionNareC20>

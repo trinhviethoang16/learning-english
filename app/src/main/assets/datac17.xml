@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC17>
+    <Item>
+        <ID>1</ID>
+        <Question>character</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>determine</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>difficult</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>necessary</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>paragraph</Question>
+    </Item>
+</QuestionNareC17>

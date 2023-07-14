@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC1>
+    <Item>
+        <ID>1</ID>
+        <Question>n/a</Question>
+        <Answer>an</Answer>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>s/i</Question>
+        <Answer>is</Answer>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>r/o</Question>
+        <Answer>or</Answer>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>s/a</Question>
+        <Answer>as</Answer>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>t/a</Question>
+        <Answer>at</Answer>
+    </Item>
+</QuestionNareC1>

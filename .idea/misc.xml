@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/drawable/custom_button.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/drawable/custom_radiogroup.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/drawable/custom_title.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/drawable/custom_x.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/activity_highscore.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/activity_ketqua.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/activity_result.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/activity_test.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/choosequestion.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/correctword.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/correctword_fix.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/correctword_highscore.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/correctword_result.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/correctword_test.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/correctword_thongbao.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/englishquiz.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/englishquiz_chooselevel.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/englishquiz_highscore.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/englishquiz_result.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/englishquiz_test.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/entername.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/giaodien.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/homepage.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/huongdanquiz.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/huongdanword.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/layoutcorrectword.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/playername.xml" value="0.259375" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/layout/register.xml" value="0.264" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/Viet Hoang/AndroidStudioProjects/LearningEnglish/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/Viet Hoang/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.259375" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

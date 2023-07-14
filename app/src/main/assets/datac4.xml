@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC4>
+    <Item>
+        <ID>1</ID>
+        <Question>yes</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>add</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>age</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>and</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>ask</Question>
+    </Item>
+</QuestionNareC4>

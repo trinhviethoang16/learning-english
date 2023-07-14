@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC16>
+    <Item>
+        <ID>1</ID>
+        <Question>syllable</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>separate</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>possible</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>industry</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>division</Question>
+    </Item>
+</QuestionNareC16>
