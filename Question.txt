@@ -1,0 +1,50 @@
+1,Apple
+2,Book
+3,Clock
+4,Bicycle
+5,Coin
+6,Wardrobe
+7,Monitor
+8,Shoes
+9,Washing machine
+10,Toothbrush
+11,Razor
+12,Scissors
+13,Air conditioner
+14,Curtain
+15,Mirror
+16,Lightswitch
+17,Comb
+18,Eraser
+19,Ribbon
+20,Newspaper
+21,Straws
+22,Jigsaws
+23,Bandage
+24,Surgical mask
+25,Wheelchair
+26,Syringe
+27,Crutch
+28,Scales
+29,Chainsaw
+30,Drill
+31,Screwdriver
+32,Wrench
+33,Hammer
+34,Carpet
+35,Shelf
+36,Necklace
+37,Tweezers
+38,Dental floss
+39,Tissues
+40,Jewelry box
+41,Calculator
+42,Ballpoint
+43,Blackboard
+44,Remote
+45,Binder clip
+46,Coat stand
+47,Iron
+48,Blinds
+49,Sponge
+50,Vase
